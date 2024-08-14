@@ -17,3 +17,5 @@ Write a function named reverseString that takes a single string as input and ret
 ### Question 3: Filter even numbers: 
 Write a function named filterEvenNumbers that takes an array of numbers as input and returns a new array containing only the even numbers.
 #### Answer inside [filterEvenNumbers js](./filterEvenNumbers.js)  file in root directory
+
+### All answers inside [Index js](./index.js)  file in root directory
